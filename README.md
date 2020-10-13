@@ -1,4 +1,4 @@
-# MATH_437_SPRING20
+# State of Colorado Career Projections
 I have been presented with the problem to predict the total number of employees that will reside in each industry in Colorado in 2030 based on the current data that is available. 
 All of my data sets are available for download from my dropbox online so if you check the .ipynb files there should be links to my data or csv files. 
 I have created a few different models to test and see what works with the best some with normalized data and some with it not normalized. 
